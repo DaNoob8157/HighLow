@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2353c552-8593-4164-a959-b2ad543fc1d3" name="Changes" comment="Crack" />
+    <list default="true" id="2353c552-8593-4164-a959-b2ad543fc1d3" name="Changes" comment="Crack">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App Icon/Appicon.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App Icon/Arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App Icon/Arrow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App Icon/QMark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +24,6 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="12" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -36,12 +42,12 @@
     &quot;assignee&quot;: &quot;DaNoob8157&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DaNoob8157/HighLow.git&quot;,
-    &quot;accountId&quot;: &quot;7cde0a9d-2334-466f-9443-761f4d1deb9b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DaNoob8157/HighLowCracked.git",
+    "accountId": "7cde0a9d-2334-466f-9443-761f4d1deb9b"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -83,6 +89,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App Icon" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="HighLow" />
@@ -120,6 +131,7 @@
       <workItem from="1769099431843" duration="1318000" />
       <workItem from="1769184358162" duration="7000" />
       <workItem from="1769185257626" duration="1510000" />
+      <workItem from="1769186780806" duration="1830000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Pseudocode and Step 1">
       <option name="closed" value="true" />
@@ -137,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769019450711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Crack">
+      <option name="closed" value="true" />
+      <created>1769186816284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769186816284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +166,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit - Pseudocode and Step 1" />
     <MESSAGE value="Step 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 3" />
+    <MESSAGE value="Crack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crack" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
